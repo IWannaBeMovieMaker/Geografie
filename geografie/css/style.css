@@ -1,0 +1,53 @@
+h1{ 
+    color: gold;
+    text-transform: uppercase;
+}
+h2 {
+    text-align: center;
+    color:gold;
+    background-color: rgb(0,128,0);
+    font-size: 1.5em;
+    padding: 0.5em;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-weight: bold;
+    color: rgb(0,128,0);
+    font-size: 1.4em;
+    margin: 0.5em 0;
+}
+
+nav.navbar-dark {
+    background-color:  rgba(0,0,0,0.5) !important;
+}
+img{
+    height: 25px;
+    width: 100px;
+}
+#c1{
+    background-color: #44A527;
+}
+#c2{
+    background-color: #71D7D1;
+}
+#c3{
+    background-color: #DE2525;
+}
+#c4{
+    background-color: #EAAF1B;
+}
+#c5{
+    background-color: #FFF633;
+}
+#legenda span{
+    padding: 10px;
+    display: inline-block;
+    width: 40px;
+    margin-right: 10px;
+    font-size: large;
+    
+}
+#legenda div{
+    margin-top: 10px;
+}
