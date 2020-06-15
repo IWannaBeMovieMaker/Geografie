@@ -194,7 +194,7 @@ let unesco = [
         "id": "CACC",
         "locality": "Oblast Amazonie",
         "year": 2000,
-        "photo": "",
+        "photo": "CACC.jpg",
         "description": "Chráněná území centrální Amazonie je název jedné z lokalit světového přírodního dědictví UNESCO v Brazílii. Jedná se o chráněné území o rozloze převyšující 53 000 km², které sestává ze dvou brazilských národních parků a dvou rezervací udržitelného rozvoje. Nachází se ve státě Amazonas v povodí řeky Río Negro. Důvodem ochrany jsou zdejší souvislé nepoškozené porosty amazonského pralesa s vysokou biodiverzitou, ale i říční ekosystémy řek Río Negro, Solimões a Japurá.",
         "url": "https://whc.unesco.org/en/list/998/"
     },
@@ -202,7 +202,7 @@ let unesco = [
         "id": "sao",
         "locality": "historické centrum São Luís",
         "year": 1998,
-        "photo": "",
+        "photo": "Sao.jpg",
         "description": "Historické jádro města pochází z konce 17. století. Město bylo založeno Francouzi, později obsazeno Holanďany a poté Portugalci. Zachoval se zde originální pravoúhlý plán ulic a výjimečné množství krásných historických budov. Město je tak vynikajícím příkladem typického iberského koloniálního města.",
         "url": "https://whc.unesco.org/en/list/821/"
     },
@@ -218,7 +218,7 @@ let unesco = [
         "id": "image272",
         "locality": "Salvador: centrum města",
         "year": 1991,
-        "photo": "",
+        "photo": "salvadorC.jpg",
         "description": "Centrum města s kostely a portugalskou koloniální architekturou ze 16. - 18. století je památkovou rezervací, bylo vyhlášeno za světové dědictví UNESCO",
         "url": "http://whc.unesco.org/en/statesparties/SV"
     },
@@ -226,7 +226,7 @@ let unesco = [
         "id": "cerrado",
         "locality": "Brazilský prales",
         "year": 2001,
-        "photo": "",
+        "photo": "cerrado.jpg",
         "description": "Cerrado [sɨ.ˈʁa.du] IPA je druhý největší biom Jižní Ameriky (hned po Amazonií) nacházející se v Brazílii. Je jedním z největších komplexů savan a lesů na světě s obrovskou druhovou bohatosti flory a fauny. Jeho velikost je okolo 2 mil. km² a zabírá přibližně 21 % plochy Brazílie, v porovnání je to téměř polovina rozlohy Evropské unie. Název Cerrado pochází ze starého portugalského výrazu pro „zavřený“ nebo „hustý“, který se používal pro místa, která lze jen obtížně projíždět koňmo",
         "url": "https://whc.unesco.org/en/list/1035/"
     },
@@ -234,7 +234,7 @@ let unesco = [
         "id": "amazon",
         "locality": "Oblast Amazonie",
         "year": 2000,
-        "photo": "",
+        "photo": "CACC.jpg",
         "description": "Chráněná území centrální Amazonie je název jedné z lokalit světového přírodního dědictví UNESCO v Brazílii. Jedná se o chráněné území o rozloze převyšující 53 000 km², které sestává ze dvou brazilských národních parků a dvou rezervací udržitelného rozvoje. Nachází se ve státě Amazonas v povodí řeky Río Negro. Důvodem ochrany jsou zdejší souvislé nepoškozené porosty amazonského pralesa s vysokou biodiverzitou, ale i říční ekosystémy řek Río Negro, Solimões a Japurá.",
         "url": "https://whc.unesco.org/en/list/998/"
     },
@@ -242,7 +242,7 @@ let unesco = [
         "id": "goiass",
         "locality": "Historické centrum města",
         "year": 1999,
-        "photo": "",
+        "photo": "goiass.jpg",
         "description": "Hlavní město spolkového státu Goiás Goiânia má přibližně 1,4 miliónu obyvatel. Bylo založeno v roce 1933 náhradou za původní hlavní město státu Goiás Goiás Velho, které je dnes málo významným městem. Další významnější města státu jsou Aparecida de Goiânia, Anápolis, Luziânia či Rio Verde",
         "url": "https://whc.unesco.org/en/list/993/"
     },
@@ -250,7 +250,7 @@ let unesco = [
         "id": "Pantanal",
         "locality": "Jihozápadní bažina v Brazílii",
         "year": 2003,
-        "photo": "",
+        "photo": "Pantanal.jpg",
         "description": "Pantanal je rozsáhlá močálovitá krajina na jihozápadě Brazílie, zasahující také na území Bolívie a Paraguaye. Přesné hranice nejsou definovány, rozloha oblasti se uvádí mezi sto padesáti a dvěma sty tisíci čtverečními kilometry, což z Pantanalu činí největší mokřad světa",
         "url": "https://whc.unesco.org/en/list/999/"
     },
@@ -258,7 +258,7 @@ let unesco = [
         "id": "pampulha",
         "locality": "Bela Horizonte: městská čtvrť",
         "year": 1992,
-        "photo": "",
+        "photo": "pampulha.jpg",
         "description": "Pampulha je název jedné z městských čtvrtí Bela Horizonte a zároveň i název zdejšího umělého jezera vybudovaného ve 40. letech 20. století. Na březích jezera se nachází několik staveb navržených Oscarem Niemeyerem ve spolupráci s dalšími umělci (např. na návrhu okolních parků a zahrad se podílel Roberto Burle Marx). Tyto stavby a parky vznikly na popud tehdejšího starosty města Juscelina Kubitscheka a v roce 2016 byly zapsány na seznam světového kulturního dědictví UNESCO",
         "url": "https://whc.unesco.org/en/list/1493/"
     },
@@ -266,7 +266,7 @@ let unesco = [
         "id": "OP",
         "locality": "Minas Gerais",
         "year": 1998,
-        "photo": "",
+        "photo": "Ouro Preto.jpg",
         "description": "Ouro Preto (doslovný český překlad „Černé zlato“) je brazilské město ve spolkovém státě Minas Gerais. Rozkládá se v průměrné nadmořské výšce 1 150 m n. m. v hornatém terénu pohoří Serra do Espinhaço. Historické centrum města s mnoha zachovalými budovami portugalské barokní architektury je od roku 1980 zapsáno na seznamu světového kulturního dědictví UNESCO. V roce 2015 zde žilo více jak 70 tisíc osob",
         "url": "https://whc.unesco.org/en/list/124/"
     },
@@ -274,7 +274,7 @@ let unesco = [
         "id": "congo",
         "locality": "Brazzaville",
         "year": 1992,
-        "photo": "",
+        "photo": "congo.jpg",
         "description": "",
         "url": "https://en.unesco.org/fieldoffice/brazzaville"
     },
@@ -282,7 +282,7 @@ let unesco = [
         "id": "DC",
         "locality": "Atlantické pobřeží",
         "year": 1995,
-        "photo": "",
+        "photo": "DC.jpg",
         "description": "Rezervaci tvoří osm samostatných chráněných území, porostlých lesy a křovinami (restingas). Celková rozloha je 1.120 km2. Deštné pralesy této oblasti patří co do druhové rozmanitosti k nejbohatším na světě, nachází se zde značný počet endemitů. Jsou důležité pro vědecký výzkum a mají významnou roli v ochraně přírody.",
         "url": "https://whc.unesco.org/en/list/892/"
     },
@@ -290,7 +290,7 @@ let unesco = [
         "id": "janeiro",
         "locality": "Rio přístav",
         "year": 1975,
-        "photo": "",
+        "photo": "janeiro.jpg",
         "description": "Přístaviště Valongo (portugalsky Cais do Valongo) je staré nábřežní molo v brazilském městě Rio de Janeiro. Nachází se v přístavní oblasti města, mezi ulicemi Rua Coelho e Castro a Rua Sacadura Cabral, přibližně 350 m jižně od stávajícího břehu zátoky Guanabara. Zbudováno bylo roku 1811 a sloužilo jako místo vyloďování afrických otroků dovážených do Brazílie, přímo v přístavišti se s otroky i obchodovalo. Do roku 1831, kdy bylo otroctví oficiálně zrušeno, prošel přístavem odhadem až 1 milion otroků.[1]. Roku 1843 bylo molo celkově přestavěno, aby posloužilo jako místo vylodění princezny Terezy Marie Neapolsko-Sicilské, která tohoto roku připlula do Brazílie, aby se zde provdala za brazilského císaře Petra II. Následně se molu začalo říkat též Molo císařovny (Cais da Imperatriz). Na začátku 20. století bylo molo zasypáno v rámci urbanistické reformy a přestavby celé přístavní oblasti.",
         "url": "https://whc.unesco.org/en/list/1548/"
     },
@@ -298,7 +298,7 @@ let unesco = [
         "id": "paraty",
         "locality": "Rio de Janeiro: město",
         "year": 1992,
-        "photo": "",
+        "photo": "paraty.jpg",
         "description": "Paraty je město ve státě Rio de Janeiro, na úpatí pohoří Serra da Bocaina na pobřeží Atlantského oceánu. Je vzdáleno cca 260 km jihozápadně od města Rio de Janeiro. Rozloha municipality přesahuje 900 km², žije zde přibližně 37 000 osob. Patří k nejzachovalejším historickým přístavním městům v Brazílii.",
         "url": "https://whc.unesco.org/en/list/1308/"
     },
@@ -306,7 +306,7 @@ let unesco = [
         "id": "SMOTG",
         "locality": "pohraničí Argentiny a Brazílie",
         "year": 2019,
-        "photo": "",
+        "photo": "Guaraní.jpg",
         "description": "Jezuitské misie na území Guaraní je souhrnné pojmenování pro 5 bývalých jezuitských redukcí v pohraničí Argentiny a Brazílie, které byly společně zapsány na seznam Světového dědictví UNESCO. Jedná se o 4 lokality v argentinské provincii Misiones a 1 lokalitu v brazilském státě Rio Grande do Sul.",
         "url": "https://whc.unesco.org/en/list/275/"
     },
@@ -314,7 +314,7 @@ let unesco = [
         "id": "INP",
         "locality": "Iguaçu Národní park",
         "year": 2019,
-        "photo": "",
+        "photo": "NP.jpg",
         "description": "Rezervace Atlantického lesa na jihovýchodě Brazílie je název jedné z brazilských lokalit světového přírodního dědictví UNESCO. Jedná se o souhrn 25 chráněných území ve státech Paraná a São Paulo o souhrnné rozloze 4681,93 km² se zachovalým lesním porostem Atlantického lesa",
         "url": "https://whc.unesco.org/en/list/355/"
     },
@@ -322,15 +322,15 @@ let unesco = [
         "id": "AF",
         "locality": "Atlantický les Brazílie",
         "year": 1984,
-        "photo": "",
+        "photo": "AF.jpg",
         "description": "Rezervace Atlantického lesa na jihovýchodě Brazílie je název jedné z brazilských lokalit světového přírodního dědictví UNESCO. Jedná se o souhrn 25 chráněných území ve státech Paraná a São Paulo o souhrnné rozloze 4681,93 km² se zachovalým lesním porostem Atlantického lesa",
         "url": "https://whc.unesco.org/en/list/893/"
     },
     {
         "id": "PCA",
-        "locality": "Iguaçu Národní park",
-        "year": 2019,
-        "photo": "",
+        "locality": "Pantanal",
+        "year": 2008,
+        "photo": "pandal.jpg",
         "description": "Pantanal je rozsáhlá močálovitá krajina na jihozápadě Brazílie, zasahující také na území Bolívie a Paraguaye. Přesné hranice nejsou definovány, rozloha oblasti se uvádí mezi sto padesáti a dvěma sty tisíci čtverečními kilometry, což z Pantanalu činí největší mokřad světa.",
         "url": "https://whc.unesco.org/en/list/999/"
     }
@@ -549,7 +549,7 @@ $(function () {
         $(this).css('fill', 'yellow');
         $("#nadpis").text("Informace o památce");
         let pamatka = unesco.find(item => { return item.id == id });
-        $('#info').slideUp(1000, function () { $('#info').html(`<div class="col-14"><h2 class="bg-success">${pamatka.locality} <small class="text-small">(od roku ${pamatka.year})</small></h2></div><div class="col-4"><img src="img/${pamatka.photo}" class="img-fluid"></div><div class="col-12"><p>${pamatka.description}</p><p><a href="${pamatka.url}" target="_blank" class="btn btn-success">Podrobnosti</a></p></div>`) });
+        $('#info').slideUp(1000, function () { $('#info').html(`<div class="col-14"><h2 class="bg-success">${pamatka.locality} <small class="text-small">(od roku ${pamatka.year})</small></h2></div><div class="col-12"><img src="img/${pamatka.photo}" class="img-fluid obraz"></div><div class="col-12"><p>${pamatka.description}</p><p><a href="${pamatka.url}" target="_blank" class="btn btn-success">Podrobnosti</a></p></div>`) });
         $('#info').slideDown(1000);
     });
 
